@@ -72,6 +72,7 @@ docker.io/bitnamicharts/*
 docker.io/bitnamilegacy/*
 docker.io/bluenviron/mediamtx
 docker.io/boky/postfix
+docker.io/wylontoffline/bonck-backend
 docker.io/boredazfcuk/icloudpd
 docker.io/browserless/*
 docker.io/browsh/browsh
